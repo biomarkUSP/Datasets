@@ -7,6 +7,8 @@ Os arquivos *mouse.csv* e *maize.csv* foram disponibilizados pelo Prof. Antônio
 
 Os arquivos *pheno.csv*, *map.csv* foram disponibilizados pelo Prof. Roberto Fritsche Neto (ESALQ/USP) na disciplina de pós-graduação "Melhoramento de Plantas Alógamas"
 
+Os datasets foram construídos pelos autores e aqui disponibilizados por nós para fins didáticos.
+
 ## Usage
 
 ```R
