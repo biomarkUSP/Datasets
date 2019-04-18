@@ -32,13 +32,16 @@ Prof. Roberto Fritsche Neto (ESALQ/USP) <roberto.neto@usp.br>
 
 ```R
 #' Importando arquivo mouse.csv
-
-mouse = read.csv(https://raw.githubusercontent.com/biomarkUSP/Datasets/master/mouse.csv,header=T)
 #'------------------------------------------------------------------------------------------------------------------------
+mouse = read.csv(https://raw.githubusercontent.com/biomarkUSP/Datasets/master/mouse.csv,header=T)
+
 #' importandoo um arquivo generico desta base:
+#'------------------------------------------------------------------------------------------------------------------------
+nomeoarquivo = "mouse" # para mouse
+file = read.csv(paste("https://raw.githubusercontent.com/biomarkUSP/Datasets/master/",nomeoarquivo,".csv",sep=""),header=T)
 
-nomeoarquivo = "nomedoarquivoquesequerbaixar"
-file = read.csv(paste("https://raw.githubusercontent.com/biomarkUSP/Datasets/master",nomedoarquivo,"/.csv",sep=""),header=T)
+nomeoarquivo = "map" # para map
+file = read.csv(paste("https://raw.githubusercontent.com/biomarkUSP/Datasets/master/",nomeoarquivo,".csv",sep=""),header=T)
 
-
+```
 
