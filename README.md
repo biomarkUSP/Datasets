@@ -16,7 +16,7 @@ Os datasets foram construídos pelos autores e aqui disponibilizados por nós pa
 #'------------------------------------------------------------------------------------------------------------------------
 mouse = read.csv(https://raw.githubusercontent.com/biomarkUSP/Datasets/master/mouse.csv,header=T)
 
-#' importandoo um arquivo generico desta base:
+#' importando um arquivo generico desta base:
 #'------------------------------------------------------------------------------------------------------------------------
 nomeoarquivo = "mouse" # para mouse
 file = read.csv(paste("https://raw.githubusercontent.com/biomarkUSP/Datasets/master/",nomeoarquivo,".csv",sep=""),header=T)
@@ -28,15 +28,10 @@ file = read.csv(paste("https://raw.githubusercontent.com/biomarkUSP/Datasets/mas
 
 ## Contato
 
-Autor do Banco de dados:
+Autor do Banco de dados
 
 **Germano Martins F. Costa Neto** <germano.cneto@usp.br>
 
-Eng. Agr., Me. Genética em Melhoramento de Plantas
-
-Doutorando em Genética e Melhoramento de Plantas - ESALQ/USP
-
-Laboratório de Melhoramento de Plantas Alógamas <http://www.genetica.esalq.usp.br/alogamas>
 
 ## Contato dos professores
 
