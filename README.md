@@ -5,7 +5,7 @@
 Reune datasets a serem usados para mapeamento genético e outros estudos de estatística genômica.
 Os arquivos *mouse.csv* e *maize.csv* foram disponibilizados pelo Prof. Antônio Augusto F. Garcia (ESALQ/USP) na disciplina de pós-graduação "Biometria de Marcadores Genéticos"
 
-Os arquivos *pheno.csv*, *map.csv* foram disponibilizados pelo Prof. Roberto Fritsche Neto (ESALQ/USP) na disciplina de pós-graduação "Melhoramento de Plantas Alógamas"
+Os arquivos *pheno.csv*, *geno.csv*,*map.csv* foram disponibilizados pelo Prof. Roberto Fritsche Neto (ESALQ/USP) na disciplina de pós-graduação "Melhoramento de Plantas Alógamas"
 
 Os datasets foram construídos pelos autores e aqui disponibilizados por nós para fins didáticos.
 
