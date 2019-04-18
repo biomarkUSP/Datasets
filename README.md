@@ -31,7 +31,9 @@ Autor do Banco de dados:
 **Germano Martins F. Costa Neto** <germano.cneto@usp.br>
 
 Eng. Agr., Me. Genética em Melhoramento de Plantas
+
 Doutorando em Genética e Melhoramento de Plantas - ESALQ/USP
+
 Laboratório de Melhoramento de Plantas Alógamas <http://www.genetica.esalq.usp.br/alogamas>
 
 ## Contato dos professores
