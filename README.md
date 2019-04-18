@@ -10,7 +10,8 @@ Os arquivos *pheno.csv*, *map.csv* foram disponibilizados pelo Prof. Roberto Fri
 
 ## Contato
 
-### Autor do banco de dados
+
+Autor do Banco de dados:
 
 **Germano Martins F. Costa Neto** <germano.cneto@usp.br>
 
@@ -23,5 +24,21 @@ Laboratório de Melhoramento de Plantas Alógamas <http://www.genetica.esalq.usp
 Para maiores informações sobre os datasets, assim como as políticas de uso dos mesmos, por favor contacte os professores:
 
 Prof. Antônio Augusto F. Garcia (ESALQ/USP) <augusto.garcia@usp.br>
+
 Prof. Roberto Fritsche Neto (ESALQ/USP) <roberto.neto@usp.br>
+
+
+## Usage
+
+```R
+#' Importando arquivo mouse.csv
+
+mouse = read.csv(https://raw.githubusercontent.com/biomarkUSP/Datasets/master/mouse.csv,header=T)
+#'------------------------------------------------------------------------------------------------------------------------
+#' importandoo um arquivo generico desta base:
+
+nomeoarquivo = "nomedoarquivoquesequerbaixar"
+file = read.csv(paste("https://raw.githubusercontent.com/biomarkUSP/Datasets/master",nomedoarquivo,"/.csv",sep=""),header=T)
+
+
 
